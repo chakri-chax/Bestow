@@ -1,6 +1,7 @@
 # Bestow
 A crypto transfer dapp
 
+![Bestow](https://github.com/chakri-chax/Bestow/assets/72123758/0c1b147a-d61b-4ea7-9917-c7c05a6346c5)
 
 ## Introduction
 
